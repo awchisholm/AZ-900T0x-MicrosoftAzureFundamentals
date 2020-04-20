@@ -10,7 +10,7 @@ In this walkthrough, we will view available support plan options and then practi
 
 # Task 1: View available support plan options and a technical support request
 
-1. Sign in to the [Azure portal](https://portal.azure.com).
+1. Sign in to the [**Azure portal**](https://portal.azure.com).
 
 2. From the **All services** blade, search for and select **Help + support**, then select **Support plans**.
 
@@ -23,9 +23,9 @@ In this walkthrough, we will view available support plan options and then practi
     | Issue Type| **Technical** |
     | Subscription | **Choose your subscription** |
     | Service | **All services**, **Virtual Machine running Linux** |
-    | Resource | **General question** |
     | Summary | **Disk access is very slow for large files** |
-    | Problem type | **VM performance**, **Disk throughput is lower than expected** |
+    | Problem type | **VM performance** |
+    | Problem subtype | **Disk throughput is lower than expected** |    
     | | |
 
 5. Click **Next: Solutions >>** and read through the recommended solutions.
@@ -43,7 +43,8 @@ In this walkthrough, we will view available support plan options and then practi
     | Issue Type| **Billing** |
     | Subscription | **Choose your subscription** |
     | Summary | **Monthly charge is not correct** |
-    | Select problem type | **Pricing**, **Help me understand when I will be charged** |
+    | Problem type | **Pricing** |
+    | Problem subtype | **Help me discover the service prices** |    
     | | |
 
 2. Click **Next: Solutions** and read through the recommended solutions.
@@ -56,4 +57,4 @@ In this walkthrough, we will view available support plan options and then practi
 
 Congratulations! You have viewed the available support plan options and practiced creating and monitoring a new support request.
 
-**Note**: For more information about [creating an Azure support ticket](https://azure.microsoft.com/en-us/support/create-ticket)
+**Note**: Click for more information about [**creating an Azure support ticket**](https://azure.microsoft.com/en-us/support/create-ticket).
